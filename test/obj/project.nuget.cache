@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ouo/SqNZhiDQksGXvQzvKYzv6T55joxtw55Hf+Oar4NaeNxxh4hJBaJNlFrONi/XbB5rrXwUREnC3dSC2b2y1g==",
+  "success": true,
+  "projectFilePath": "/home/esentas/desktop/1/Control_test/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/esentas/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/esentas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/esentas/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
